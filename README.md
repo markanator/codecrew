@@ -1,4 +1,4 @@
-# fullstack-devconnector-ts
+# CodeCrew
 
 ## A full stack TypeScript social platform
 
@@ -25,7 +25,7 @@ I recently had access to [@TraversyMedia](https://www.youtube.com/user/TechGuyWe
 - Express-Validator for input validation
 - Argon2 for password hashing
 - JWT for authentication
-- Cors / Helmet to beef up security ¯\\_(ツ)_/¯.
+- Cors / Helmet
 
 ### Future Goals
 
